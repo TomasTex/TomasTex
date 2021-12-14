@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomasTex
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fairly easy projects
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
 - 📫 How to reach me -> insta: tomas_teixeira11
 
 <!---
