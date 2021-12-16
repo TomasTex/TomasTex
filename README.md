@@ -1,6 +1,5 @@
-## Hi, I'm Tomás Teixeira and Im a Computer Science and Engineering Student!
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+## Hi, I'm Tomás Teixeira and I'm a Computer Science and Engineering Student!
+
 
 <div align="left">
   <a href="https://github.com/TomasTex">
