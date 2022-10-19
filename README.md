@@ -1,4 +1,4 @@
-## Hi, I'm Tomás Teixeira and I'm a Computer Science and Engineering Student!
+## Hi, I'm Tomás Teixeira and I guess I like coding
 
 
 <div align="left">
